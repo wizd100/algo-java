@@ -9,5 +9,8 @@ public class ArrayBasic {
         for (int i = 0; i < 5; i++) {
             System.out.println(arr[i]);
         }
+
+        // 3. 인덱스로 접근
+        System.out.println(arr[3]);
     }
 }
